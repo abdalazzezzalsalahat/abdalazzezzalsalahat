@@ -7,7 +7,7 @@
 
 I'm a Software developer looking for new opportunities in Python automation and artificial intelligent, I have experience in React, JS, jQuery, HTML and CSS that's for front-end development, as for back-end development I 'm experienced in ASP.NET MVC5, Python automation, artificial intelligent libraries hoping to learn more, and for mobile applications I've started a flutter course on Udemy which I will finish soon and a little about android development using android studio.
 
-### [Check my Resume]([https://docs.google.com/document/d/1nPArzeX8Ihkgl5d4aiBVuXAPLcpU0zjV5NG2bwqdsUY/edit?usp=sharing](https://www.canva.com/design/DAF7A59e1bo/bq6QYUILtKRJEAcegy-P1w/view?utm_content=DAF7A59e1bo&utm_campaign=share_your_design&utm_medium=link2&utm_source=shareyourdesignpanel))
+### [Check my Resume](https://www.canva.com/design/DAF7A59e1bo/bq6QYUILtKRJEAcegy-P1w/view?utm_content=DAF7A59e1bo&utm_campaign=share_your_design&utm_medium=link2&utm_source=shareyourdesignpanel)
 
 > **Skills:** *REACT / JS / HTML / CSS / Django / Rest framework*
 
