@@ -1,8 +1,7 @@
 # Hi there 👋, I'm Abedalaziz
 ## Software back-end Python developer
 
-![Software back-end Python developer](![image](https://github.com/user-attachments/assets/34e8e4cb-9637-4af2-953c-2c481a84f8e8)
-)
+![Software back-end Python developer](https://github.com/user-attachments/assets/34e8e4cb-9637-4af2-953c-2c481a84f8e8)
 
 
 I'm a Software developer looking for new opportunities in Python automation and artificial intelligent, I have experience in React, JS, jQuery, HTML and CSS that's for front-end development, as for back-end development I 'm experienced in ASP.NET MVC5, Python automation, artificial intelligent libraries hoping to learn more, and for mobile applications I've started a flutter course on Udemy which I will finish soon and a little about android development using android studio.
