@@ -55,6 +55,8 @@ Keycloak • Wiz.io • IAM • TLS/SSL • Network Hardening
 **Backend Engineering**  
 Python • Django REST Framework • PostgreSQL • SQL
 
+![Software back-end Python developer](https://ma.ttias.be/wp-content/uploads/2015/07/devops.png)
+
 ---
 
 ## Current Focus
@@ -75,11 +77,6 @@ Python • Django REST Framework • PostgreSQL • SQL
 - Kubernetes ecosystem projects
 - Python-based DevOps tooling
 
-![Software back-end Python developer](https://ma.ttias.be/wp-content/uploads/2015/07/devops.png)
-
-
-![if-i-had-to-start-again-99d276c892bc](https://miro.medium.com/1*Rw-ZePnzIuMuGf8iu6kKUg.jpeg)
-
 💬 Ask me about:
 
 - Kubernetes production operations
@@ -90,6 +87,7 @@ Python • Django REST Framework • PostgreSQL • SQL
 - Python backend systems
 
 ---
+![if-i-had-to-start-again-99d276c892bc](https://miro.medium.com/1*Rw-ZePnzIuMuGf8iu6kKUg.jpeg)
 
 ## Contact
 
@@ -104,8 +102,6 @@ https://github.com/abdalazzezzalsalahat
 ---
 
 ## GitHub Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdalazzezzalsalahat&show_icons=true&theme=tokyonight)](https://github.com/abdalazzezzalsalahat)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdalazzezzalsalahat&layout=compact&theme=tokyonight)](https://github.com/abdalazzezzalsalahat)
 
@@ -123,5 +119,3 @@ https://github.com/abdalazzezzalsalahat
 > Simplify what is complex.
 
 ---
-
-![Profile Views](https://gpvc.arturio.dev/abdalazzezzalsalahat)
