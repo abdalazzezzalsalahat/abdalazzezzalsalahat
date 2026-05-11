@@ -1,38 +1,122 @@
-# Azeez, Just a knowledge Seeker
-## DevOps Engineer
-## 
-### I write code for fun, and I learn new tech to make it even more fun
+# Abdulaziz Alsalahat
+## Senior DevOps Engineer | Cloud Infrastructure Architect | Backend Engineer
+
+### Building scalable systems, automating infrastructure, and engineering reliable cloud-native solutions.
 
 ![Software back-end Python developer](https://github.com/user-attachments/assets/34e8e4cb-9637-4af2-953c-2c481a84f8e8)
 
+I am a Senior DevOps Engineer and Infrastructure Architect with proven experience designing, automating, and scaling production-grade systems across cloud and hybrid environments.
 
-I'm an experienced and highly motivated DevOps Engineer with a strong background in optimizing cloud infrastructure and streamlining deployment pipelines. I specialize in managing microservices with Kubernetes, Helm charts, and Docker, and have a proven ability to resolve complex technical issues. My expertise includes leveraging AWS and Terraform for robust cloud management, setting up comprehensive monitoring, and enhancing system security. I am passionate about creating efficient, secure, and scalable systems, and thrive in dynamic team environments.
+My expertise spans Kubernetes orchestration, Terraform-based infrastructure automation, CI/CD pipeline engineering, cloud security hardening, and backend system architecture using Python and Django.
 
-### [Check my Resume](https://www.canva.com/design/DAF7A59e1bo/bq6QYUILtKRJEAcegy-P1w/view?utm_content=DAF7A59e1bo&utm_campaign=share_your_design&utm_medium=link2&utm_source=shareyourdesignpanel)
+I specialize in:
 
-> **Skills:** *Mentioned in my Resume*
+- Architecting secure and scalable cloud infrastructure
+- Building production-ready Kubernetes platforms
+- Automating deployments and operational workflows
+- Designing observability and monitoring ecosystems
+- Backend engineering with Python & Django REST Framework
+- Solving high-scale infrastructure reliability challenges
 
-🔭 I’m currently leveraging my expertise as a DevOps Engineer, managing cloud and on-prem servers and optimizing deployment methodologies.
-🌱 I’m continuously expanding my skillset, particularly in areas like automation, machine learning, and artificial intelligence, to further enhance system efficiency and security.
-👯 I’m looking to collaborate on backend Python projects, drawing on my experience with Django and Python-based tools for automation and cloud resource management.
-🤔 I’m actively seeking collaboration and insights related to artificial intelligence, especially concerning its application in security or system optimization.
-💬 Feel free to ask me about cloud infrastructure, CI/CD pipelines, Kubernetes, or anything related to DevOps.
-📫 How to reach me: abdalazzezzalsalahat@icloud.com 
-⚡ Fun fact: I want to buy SpaceX and Tesla from Elon Musk.
+I have delivered solutions across AWS, Azure, GCP, and hybrid enterprise environments while leading infrastructure modernization and operational optimization initiatives.
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/abdalazzezzalsalahat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abd-alazez-ali-alsalahat/)
+## Portfolio & Resume
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+### 🌐 Portfolio
+[Visit My Portfolio](https://abdalazzezzalsalahat.github.io/portofolio/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdalazzezzalsalahat)](https://github.com/ryo-ma/github-profile-trophy)
+### 📄 Resume
+[Check My Resume](https://www.canva.com/design/DAF7A59e1bo/bq6QYUILtKRJEAcegy-P1w/view?utm_content=DAF7A59e1bo&utm_campaign=share_your_design&utm_medium=link2&utm_source=shareyourdesignpanel)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdalazzezzalsalahat&show_icons=true&theme=tokyonight)](https://github.com/abdalazzezzalsalahat) 
+---
 
-[![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=abdalazzezzalsalahat&show_icons=true&theme=tokyonight)](https://github.com/abdalazzezzalsalahat)
+## Core Expertise
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abdalazzezzalsalahat&show_icons=true&theme=tokyonight)  
+**Cloud Platforms**  
+AWS • Azure • GCP • DigitalOcean • Cloudflare
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdalazzezzalsalahat&show_icons=true&theme=tokyonight)  
+**Infrastructure as Code**  
+Terraform • GitOps • Helm • ArgoCD
 
-![Profile views](https://gpvc.arturio.dev/abdalazzezzalsalahat)  
+**Containers & Orchestration**  
+Docker • Kubernetes (K8s / K3s / RKE2 / Kind)
+
+**CI/CD & Automation**  
+GitHub Actions • GitLab CI/CD • Azure DevOps • Bash Automation
+
+**Observability & Monitoring**  
+Prometheus • Grafana • Datadog • New Relic • AWS CloudWatch
+
+**Security & Identity**  
+Keycloak • Wiz.io • IAM • TLS/SSL • Network Hardening
+
+**Backend Engineering**  
+Python • Django REST Framework • PostgreSQL • SQL
+
+---
+
+## Current Focus
+
+🔭 Designing and managing cloud-native production infrastructure for enterprise and independent clients
+
+🌱 Expanding deeper into:
+
+- DevSecOps
+- MLOps
+- Distributed systems architecture
+- Applied AI infrastructure engineering
+
+👯 Open to collaborating on:
+
+- Cloud-native backend systems
+- Infrastructure automation platforms
+- Kubernetes ecosystem projects
+- Python-based DevOps tooling
+
+💬 Ask me about:
+
+- Kubernetes production operations
+- Cloud architecture
+- Terraform
+- CI/CD systems
+- Platform reliability engineering
+- Python backend systems
+
+---
+
+## Contact
+
+📫 **Email:** abdalazzezzalsalahat@gmail.com
+
+🔗 **LinkedIn:**  
+https://www.linkedin.com/in/abd-alazez-ali-alsalahat/
+
+💻 **GitHub:**  
+https://github.com/abdalazzezzalsalahat
+
+---
+
+## GitHub Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdalazzezzalsalahat&show_icons=true&theme=tokyonight)](https://github.com/abdalazzezzalsalahat)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdalazzezzalsalahat&layout=compact&theme=tokyonight)](https://github.com/abdalazzezzalsalahat)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdalazzezzalsalahat&theme=tokyonight)](https://github.com/abdalazzezzalsalahat)
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=abdalazzezzalsalahat&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## Philosophy
+
+> Engineer systems that scale.  
+> Automate what repeats.  
+> Secure what matters.  
+> Simplify what is complex.
+
+---
+
+![Profile Views](https://gpvc.arturio.dev/abdalazzezzalsalahat)
