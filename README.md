@@ -75,7 +75,10 @@ Python • Django REST Framework • PostgreSQL • SQL
 - Kubernetes ecosystem projects
 - Python-based DevOps tooling
 
-![Software back-end Python developer]([https://kbrzozova.medium.com/devops-wannabe-if-i-had-to-start-again-99d276c892bc](https://miro.medium.com/1*Rw-ZePnzIuMuGf8iu6kKUg.jpeg))
+![Software back-end Python developer](https://ma.ttias.be/wp-content/uploads/2015/07/devops.png)
+
+
+![if-i-had-to-start-again-99d276c892bc](https://miro.medium.com/1*Rw-ZePnzIuMuGf8iu6kKUg.jpeg)
 
 💬 Ask me about:
 
