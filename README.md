@@ -17,7 +17,7 @@
   <a href="https://abdalazzezzalsalahat.github.io/portofolio/">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://www.canva.com/design/DAF7A59e1bo/bq6QYUILtKRJEAcegy-P1w/view">
+  <a href="[https://www.canva.com/design/DAF7A59e1bo/bq6QYUILtKRJEAcegy-P1w/view](https://canva.link/yzml2io8oadr7qb)">
     <img src="https://img.shields.io/badge/Resume-C.V-lightgrey" alt="Resume">
   </a>
   <a href="https://github.com/abdalazzezzalsalahat">
