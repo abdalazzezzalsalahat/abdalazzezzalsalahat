@@ -1,4 +1,4 @@
-<h1 align="center">Abdulaziz Alsalahat</h1>
+<h1 align="center">Abdalaziz Asalahat</h1>
 
 <h3 align="center">
   Senior DevOps Engineer | DevSecOps | Cloud Infrastructure Architect
