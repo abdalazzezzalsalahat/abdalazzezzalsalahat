@@ -1,33 +1,29 @@
-<a href="https://github.com/abdalazzezzalsalahat">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdalazzezzalsalahat/abdalazzezzalsalahat/main/assets/dark_mode.svg">
-    <img alt="Abdulaziz Alsalahat - Senior DevOps Engineer | Cloud Infrastructure Architect" src="https://raw.githubusercontent.com/abdalazzezzalsalahat/abdalazzezzalsalahat/main/assets/light_mode.svg" width="100%">
-  </picture>
-</a>
+<h1 align="center">Abdulaziz Alsalahat</h1>
+
+<h3 align="center">
+  Senior DevOps Engineer | DevSecOps | Cloud Infrastructure Architect
+</h3>
 
 <p align="center">
-  <strong>Senior DevOps Engineer | DevSecOps | Cloud Infrastructure Architect</strong>
-</p>
-
-<p align="center">
-  Building scalable infrastructure, automating deployments, securing cloud environments, and engineering reliable systems.
+  Building scalable infrastructure, automating deployments,
+  securing cloud environments, and engineering reliable systems.
 </p>
 
 <p align="center">
   <a href="https://abdalazzezzalsalahat.github.io/portofolio/">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?logo=googlechrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
-  <a href="[https://www.canva.com/design/DAF7A59e1bo/bq6QYUILtKRJEAcegy-P1w/view](https://canva.link/yzml2io8oadr7qb)">
-    <img src="https://img.shields.io/badge/Resume-C.V-lightgrey" alt="Resume">
+  <a href="https://canva.link/yzml2io8oadr7qb">
+    <img src="https://img.shields.io/badge/Resume-CV-555555?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume">
   </a>
   <a href="https://github.com/abdalazzezzalsalahat">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/abd-alazez-ali-alsalahat/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:abdalazzezzalsalahat@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -91,11 +87,14 @@ Beyond infrastructure engineering, I enjoy software development in my free time,
 
 ### 🔐 DevSecOps, Security & Identity
 
+![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
 ![Wiz](https://img.shields.io/badge/Wiz-6B4EFF?style=for-the-badge&logoColor=white)
 ![AWS IAM](https://img.shields.io/badge/AWS_IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![TLS SSL](https://img.shields.io/badge/TLS%2FSSL-00897B?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![Linux Security](https://img.shields.io/badge/Linux_Security-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white)
+
 
 ### 📊 Observability & Reliability Engineering
 
@@ -105,43 +104,19 @@ Beyond infrastructure engineering, I enjoy software development in my free time,
 ![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=loki&logoColor=white)
+![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-F46800?style=for-the-badge&logoColor=white)
 
 ### 💻 Software Development
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<!-- ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
+<!-- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) -->
 ![Django REST](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-<details>
-<summary><strong>Full Stack, Development & Additional Tools</strong></summary>
-<br>
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</details>
+![signoz](https://img.shields.io/badge/signoz-DD0031?style=for-the-badge&logo=signoz&logoColor=white)
 
 ---
 
