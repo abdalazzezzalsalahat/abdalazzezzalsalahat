@@ -148,26 +148,36 @@ Outside my professional DevOps work, I enjoy building software products and expe
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdalazzezzalsalahat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" alt="GitHub Statistics">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalazzezzalsalahat&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages">
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdalazzezzalsalahat&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
-
+<!-- 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdalazzezzalsalahat&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies">
-</p>
+</p> -->
 
 ### 🐍 Contribution Activity
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdalazzezzalsalahat/abdalazzezzalsalahat/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdalazzezzalsalahat/abdalazzezzalsalahat/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/abdalazzezzalsalahat/abdalazzezzalsalahat/output/github-contribution-grid-snake.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/abdalazzezzalsalahat/abdalazzezzalsalahat/output/github-contribution-grid-snake-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/abdalazzezzalsalahat/abdalazzezzalsalahat/output/github-contribution-grid-snake.svg"
+    >
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/abdalazzezzalsalahat/abdalazzezzalsalahat/output/github-contribution-grid-snake.svg"
+      width="100%"
+    >
   </picture>
 </p>
 
